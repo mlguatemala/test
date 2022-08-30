@@ -22,7 +22,7 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-             Fun Fact: There are over 700 species of dinosaurs!
+             Facts
             </>
           )}
         </div>
